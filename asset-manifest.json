@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/threejs-storybook/static/css/main.33249400.chunk.css",
+    "main.js": "/threejs-storybook/main.d9243c053815e6869cf3.bundle.js",
+    "main.css.map": "/threejs-storybook/static/css/main.33249400.chunk.css.map",
+    "main.js.map": "/threejs-storybook/main.d9243c053815e6869cf3.bundle.js.map",
+    "runtime~main.js": "/threejs-storybook/runtime~main.d9243c053815e6869cf3.bundle.js",
+    "runtime~main.js.map": "/threejs-storybook/runtime~main.d9243c053815e6869cf3.bundle.js.map",
+    "vendors~main.js": "/threejs-storybook/vendors~main.d9243c053815e6869cf3.bundle.js",
+    "vendors~main.js.map": "/threejs-storybook/vendors~main.d9243c053815e6869cf3.bundle.js.map",
+    "iframe.html": "/threejs-storybook/iframe.html",
+    "precache-manifest.12f0db9ac6a74e704f7ed2b91057861f.js": "/threejs-storybook/precache-manifest.12f0db9ac6a74e704f7ed2b91057861f.js",
+    "service-worker.js": "/threejs-storybook/service-worker.js",
+    "static/media/3.jpeg": "/threejs-storybook/static/media/3.39fb1c55.jpeg",
+    "static/media/4.jpeg": "/threejs-storybook/static/media/4.9173f7cf.jpeg",
+    "static/media/5.jpeg": "/threejs-storybook/static/media/5.9ad073d1.jpeg",
+    "vendors~main.d9243c053815e6869cf3.bundle.js.LICENSE.txt": "/threejs-storybook/vendors~main.d9243c053815e6869cf3.bundle.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "runtime~main.d9243c053815e6869cf3.bundle.js",
+    "vendors~main.d9243c053815e6869cf3.bundle.js",
+    "static/css/main.33249400.chunk.css",
+    "main.d9243c053815e6869cf3.bundle.js"
+  ]
+}
